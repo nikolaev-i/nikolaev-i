@@ -1,1 +1,1 @@
-![stalkers](https://komarev.com/ghpvc/?username=nikolaev-i=green)
+![stalkers](https://komarev.com/ghpvc/?username=nikolaev-i)
