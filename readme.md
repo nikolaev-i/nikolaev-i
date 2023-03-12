@@ -8,4 +8,5 @@
 
 
 
-![kanban](images\kanban.png)
+<img src='/imgages/kanban.png'></img>
+
