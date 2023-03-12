@@ -7,4 +7,5 @@
 
 
 
-![kanban](https://user-images.githubusercontent.com/11695111/224547763-e9e86df9-1112-454b-9056-04e2026b5782.png)
+
+![kanban](https://user-images.githubusercontent.com/11695111/224547970-4642504a-e767-43e1-83fd-803dbd0bd7f4.png)
