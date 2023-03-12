@@ -8,4 +8,4 @@
 
 
 
-![kanban](https://user-images.githubusercontent.com/11695111/224547970-4642504a-e767-43e1-83fd-803dbd0bd7f4.png)
+![kanban](images\kanban.png)
