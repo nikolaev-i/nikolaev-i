@@ -8,5 +8,5 @@
 
 
 
-<img src='/imgages/kanban.png'></img>
+<img src='/images/kanban.png'></img>
 
